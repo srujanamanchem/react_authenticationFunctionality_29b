@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+.route-link {
+  list-style-type: none;
+  margin: 10px;
+}
+.nav-link {
+  font-size: 20px;
+}
